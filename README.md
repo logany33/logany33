@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-### I am Logan Yee
-- i am a student at OTU! 
+### Im Logan Yee
+- A Software Engineering student at OTU! 
 <!--
 **logany33/logany33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
